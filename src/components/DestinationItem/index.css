@@ -1,0 +1,17 @@
+.itemContainer {
+  width: 280px;
+  max-width: 390px;
+  padding: 18px;
+  flex-grow: 1;
+}
+
+.image {
+  width: 100%;
+}
+
+.name {
+  color: #000000;
+  font-family: 'roboto';
+  font-size: 16px;
+  font-weight: 500;
+}
